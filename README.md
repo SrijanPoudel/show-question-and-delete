@@ -1,0 +1,1 @@
+This is a backend I developed as a college project using XAMPP and PHP, along with a frontend that allows users to add, remove, and store data. It can be used to create any quiz-type game, enabling users to easily add, modify, or delete questions. This setup could also be adapted for similar types of projects.
